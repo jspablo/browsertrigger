@@ -1,6 +1,6 @@
 # 🔫 browsertrigger
 
-**browsertrigger** is an open source browser extension that helps you collect data from the web and integrate it with your favorite automation tools and AI agents. The content you see is what you send, no third scrapers.
+**browsertrigger** is an open source browser extension that helps you collect data from the web and trigger your favorite automation tools and AI agents. The content you see is what you send, no third scrapers.
 
 ## ✨ Features
 
@@ -70,4 +70,4 @@ Add new webhook and update its fields:
 
 - Built with [WXT](https://wxt.dev/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Icons from [Lucide](https://lucide.dev/) and [LobeHub](https://icons.lobehub.com/)
+- Icons from [Lucide](https://lucide.dev/), [LobeHub](https://icons.lobehub.com/) and [Twemoji](https://twemoji-cheatsheet.vercel.app/)
