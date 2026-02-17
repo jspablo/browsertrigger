@@ -1,6 +1,6 @@
 {
   "name": "browsertrigger",
-  "description": "manifest.json description",
+  "description": "Open source browser extension that helps you collect data from the web and trigger your favorite automation tools and AI agents",
   "private": true,
   "version": "0.0.1",
   "type": "module",
